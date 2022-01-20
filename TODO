@@ -1,0 +1,29 @@
+
+- logic mixed with content:
+  + "burger" logic in _layouts/essential.html
+  + calendar.md
+  + _includes/search.html
+  + ???
+- remote JS without integrity hash:
+  + calendar.md
+- _document_search does not seem useful; files are identical to documentation/files/
+- search page:
+  + using ENTER on the search page does not work, you absolutely need to click on the "Search" button
+  + input field not focused
+- no favicon generation
+- color overrides does not always work:
+  + header-heading-color
+  + found another one but forgot to take note
+  + ???
+- blog:
+  + post page does not display author, categories and tags
+  + because of the above there's no link to the tags page
+- feeds:
+  + not advertized in the headers
+  + how do I include it in the theme? include?
+  + site title and description hardcoded in the atom
+  + move atom into feeds/?
+- 404 page:
+  + how do I include it in the theme? include?
+  + site title and description hardcoded
+
